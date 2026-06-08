@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,c8a2c8,b0c4de&height=200&section=header&text=Ayman%20Binta%20Altaf%20Nondiny&fontSize=35&fontColor=ffffff&fontAlignY=35&desc=weaving%20code%20%26%20dreams%20%E2%9C%A8&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ffb6c1,c8a2c8,b0c4de&amp;height=200&amp;section=header&amp;text=Ayman%20Binta%20Altaf%20Nondiny&amp;fontSize=35&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=weaving%20code%20and%20dreams%20%E2%9C%A8&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -57,14 +57,14 @@
 
 <div align="center">
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="42" height="42" alt="C" title="C"/></a>&nbsp;&nbsp;
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="42" height="42" alt="C++" title="C++"/></a>&nbsp;&nbsp;
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="42" height="42" alt="Java" title="Java"/></a>&nbsp;&nbsp;
-<a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot"/></a>&nbsp;&nbsp;
-<a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="42" height="42" alt="Flutter" title="Flutter"/></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;&nbsp;
-<a href="https://supabase.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="42" height="42" alt="Supabase" title="Supabase"/></a>&nbsp;&nbsp;
-<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="42" height="42" alt="Linux" title="Linux"/></a>&nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="42" height="42" alt="C" title="C"/></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="42" height="42" alt="C++" title="C++"/></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="42" height="42" alt="Java" title="Java"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot"/></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="42" height="42" alt="Flutter" title="Flutter"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL"/></a>
+<a href="https://supabase.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="42" height="42" alt="Supabase" title="Supabase"/></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="42" height="42" alt="Linux" title="Linux"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="42" height="42" alt="VS Code" title="VS Code"/></a>
 
 </div>
@@ -77,15 +77,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aymannondiny&show_icons=true&count_private=true&theme=rose_pine&hide_border=true&bg_color=1a1a2e&title_color=ffb6c1&icon_color=c8a2c8&text_color=e8d5e8" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aymannondiny&theme=rose_pine&hide_border=true&background=1a1a2e&ring=ffb6c1&fire=c8a2c8&currStreakLabel=ffb6c1&sideLabels=c8a2c8&dates=e8d5e8&currStreakNum=ffffff&sideNums=ffffff" width="48%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=aymannondiny&theme=rose_pine&hide_border=true&background=1a1a2e" width="48%" alt="GitHub Streak"/>
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymannondiny&layout=compact&theme=rose_pine&hide_border=true&bg_color=1a1a2e&title_color=ffb6c1&text_color=e8d5e8" width="40%" alt="Top Languages"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -111,16 +106,16 @@
 
 <a href="https://www.github.com/aymannondiny" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=1a1a2e" alt="GitHub"/>
-</a>&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/nondiny-ayman" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-c8a2c8?style=for-the-badge&logo=linkedin&logoColor=1a1a2e" alt="LinkedIn"/>
-</a>&nbsp;
+</a>
 <a href="https://discord.com/users/ayman_nondiny" target="_blank">
   <img src="https://img.shields.io/badge/Discord-b0c4de?style=for-the-badge&logo=discord&logoColor=1a1a2e" alt="Discord"/>
-</a>&nbsp;
+</a>
 <a href="https://www.facebook.com/ayman.nondiny.2024" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-ffb6c1?style=for-the-badge&logo=facebook&logoColor=1a1a2e" alt="Facebook"/>
-</a>&nbsp;
+</a>
 <a href="mailto:ayman@iut-dhaka.edu">
   <img src="https://img.shields.io/badge/Email-c8a2c8?style=for-the-badge&logo=gmail&logoColor=1a1a2e" alt="Email"/>
 </a>
