@@ -12,6 +12,30 @@
 
 ---
 
+## 🌙 What I’m feeling today
+> Softly grateful for the girl I have transformed into.
+
+<sub>Last updated: 2026‑06‑08</sub>
+
+<details>
+<summary>Past notes</summary>
+
+- 2026‑06‑07 — Taking small steps, still moving.
+- 2026‑06‑01 — Learning to enjoy the process, not just the result.
+
+</details>
+
+---
+
+## 🤍 Quran reflection
+
+<p dir="rtl" lang="ar">وَلِبَاسُ ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌۭ ۚ ذَٰلِكَ مِنْ ءَايَـٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ ٢٦</p>
+
+> “However, the best clothing is righteousness. This is one of Allah’s bounties, so perhaps you will be mindful.”
+>
+> — Surah The Heights (7:26) , Saheeh International  
+> Read: https://quran.com/7/26
+---
 ## 🌸 About Me
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
@@ -150,7 +174,15 @@
 
 <br/><br/>
 
-<i>"And He found you lost and guided you."</i> 🤍 — Surah Ad-Duha 93:7
+<div align="center">
+
+<i>"رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ"</i>
+
+<i>"Our Lord! We have wronged ourselves. If You do not forgive us and have mercy on us, we will certainly be losers."</i>  
+
+— Surah Al-A'raf 7:23 🤍 
+
+</div>
 
 <br/><br/>
 
