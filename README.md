@@ -6,7 +6,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="./assets/pink-divider-animated.svg" width="100%" alt="divider"/>
+</p>
 
 ---
 
@@ -37,6 +39,10 @@
 <p style="color: #ad1457;">— Surah The Heights (7:26) , Saheeh International<br/>
 Read: <a href="https://quran.com/7/26" style="color: #ad1457;">https://quran.com/7/26</a></p>
 
+<p align="center">
+  <img src="./assets/pink-divider-animated.svg" width="100%" alt="divider"/>
+</p>
+
 ---
 
 <h2 style="color: #ad1457;">🌸 About Me</h2>
@@ -59,8 +65,9 @@ But she never stays down — and that is her power."</i> 🌷</p>
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
+<p align="center">
+  <img src="./assets/pink-divider-animated.svg" width="100%" alt="divider"/>
+</p>
 ---
 
 <h2 style="color: #ad1457;">🌙 Currently Weaving Through...</h2>
@@ -76,7 +83,9 @@ But she never stays down — and that is her power."</i> 🌷</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="./assets/pink-divider-animated.svg" width="100%" alt="divider"/>
+</p>
 
 ---
 
@@ -96,7 +105,9 @@ But she never stays down — and that is her power."</i> 🌷</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="./assets/pink-divider-animated.svg" width="100%" alt="divider"/>
+</p>
 
 ---
 
@@ -108,7 +119,9 @@ But she never stays down — and that is her power."</i> 🌷</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="./assets/pink-divider-animated.svg" width="100%" alt="divider"/>
+</p>
 
 ---
 
@@ -122,7 +135,9 @@ But she never stays down — and that is her power."</i> 🌷</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="./assets/pink-divider-animated.svg" width="100%" alt="divider"/>
+</p>
 
 ---
 
@@ -148,7 +163,9 @@ But she never stays down — and that is her power."</i> 🌷</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="./assets/pink-divider-animated.svg" width="100%" alt="divider"/>
+</p>
 
 ---
 
@@ -166,7 +183,9 @@ But she never stays down — and that is her power."</i> 🌷</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="./assets/pink-divider-animated.svg" width="100%" alt="divider"/>
+</p>
 
 ---
 
